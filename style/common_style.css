@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font: 600 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    /* background-image: linear-gradient(to right,#7f53ac 0,#657ced 100%); */
+    background: #fff;
+    color: black
+}
+
+.container {
+    background: #eee;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
